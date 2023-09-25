@@ -45,7 +45,7 @@
 mail:
 * everlasting.improvement[at]gmail.com
 
-SNS一覧：
+SNS：
 * [ブログ](https://better-software-testing.hatenablog.com/)
 * [Qiita](https://qiita.com/hideshis)
 * [GitHub](https://github.com/everlasting-improvement)
