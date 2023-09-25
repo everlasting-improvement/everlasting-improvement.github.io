@@ -49,6 +49,6 @@ SNS：
 * [ブログ](https://better-software-testing.hatenablog.com/)
 * [Qiita](https://qiita.com/hideshis)
 * [GitHub](https://github.com/everlasting-improvement)
-* [X(Twitter)](https://twitter.com/hideshis_qa2)
+* [X(Twitter)](https://twitter.com/mikan_freelance)
 * [LinkedIn](https://www.linkedin.com/in/hideshi-sakaguchi-ab7b871a3/)
 * [YOUTRUST](https://youtrust.jp/users/hideshis)
