@@ -48,6 +48,6 @@ mail:
 SNS一覧：
 * [ブログ](https://better-software-testing.hatenablog.com/)
 * [Qiita](https://qiita.com/hideshis)
-* [GitHub](https://github.com/hideshis)
+* [GitHub](https://github.com/everlasting-improvement)
 * [X(Twitter)](https://twitter.com/hideshis_qa2)
 * [LinkedIn](https://www.linkedin.com/in/hideshi-sakaguchi-ab7b871a3/)
