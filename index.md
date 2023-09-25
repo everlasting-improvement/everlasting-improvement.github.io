@@ -43,11 +43,11 @@
 最後まで読んでいただきありがとうございました！！
 
 mail:
-* everlasting.improvement@gmail.com
+* everlasting.improvement[at]gmail.com
 
 SNS一覧：
-* ブログ：https://better-software-testing.hatenablog.com/
-* Qiita：https://qiita.com/hideshis
-* GitHub：https://github.com/hideshis
-* X(Twitter)：https://twitter.com/hideshis_qa2
-* LinkedIn：https://www.linkedin.com/in/hideshi-sakaguchi-ab7b871a3/
+* [ブログ](https://better-software-testing.hatenablog.com/)
+* [Qiita](https://qiita.com/hideshis)
+* [GitHub](https://github.com/hideshis)
+* [X(Twitter)](https://twitter.com/hideshis_qa2)
+* [LinkedIn](https://www.linkedin.com/in/hideshi-sakaguchi-ab7b871a3/)
